@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/manojmareedu/Projects/Credit Fraud Detection/Credit-Card-Fraud-Detection-Project/mlruns/555500695970191872/0ee93b9ac70a454f97e1d6a311e0014f/artifacts
+end_time: 1771430434842
+entry_point_name: ''
+experiment_id: '555500695970191872'
+lifecycle_stage: active
+run_id: 0ee93b9ac70a454f97e1d6a311e0014f
+run_name: dapper-lamb-921
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771430333356
+status: 3
+tags: []
+user_id: manojmareedu

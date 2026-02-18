@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/manojmareedu/Projects/Credit Fraud Detection/Credit-Card-Fraud-Detection-Project/mlruns/555500695970191872/5e79a767c0074d73a1d626b0d678292f/artifacts
+end_time: 1771430434842
+entry_point_name: ''
+experiment_id: '555500695970191872'
+lifecycle_stage: active
+run_id: 5e79a767c0074d73a1d626b0d678292f
+run_name: fun-ox-388
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771430333356
+status: 3
+tags: []
+user_id: manojmareedu

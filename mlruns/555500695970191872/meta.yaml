@@ -1,0 +1,6 @@
+artifact_location: file:///Users/manojmareedu/Projects/Credit Fraud Detection/Credit-Card-Fraud-Detection-Project/mlruns/555500695970191872
+creation_time: 1771430333271
+experiment_id: '555500695970191872'
+last_update_time: 1771430333271
+lifecycle_stage: active
+name: fraud_detection_pipeline

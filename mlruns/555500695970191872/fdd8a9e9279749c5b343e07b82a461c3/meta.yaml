@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/manojmareedu/Projects/Credit Fraud Detection/Credit-Card-Fraud-Detection-Project/mlruns/555500695970191872/fdd8a9e9279749c5b343e07b82a461c3/artifacts
+end_time: 1771430467660
+entry_point_name: ''
+experiment_id: '555500695970191872'
+lifecycle_stage: active
+run_id: fdd8a9e9279749c5b343e07b82a461c3
+run_name: fraud_detection_pipeline-2026_02_18-15_58_41_623799
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771430333356
+status: 3
+tags: []
+user_id: manojmareedu

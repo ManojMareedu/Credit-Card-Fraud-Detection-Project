@@ -1,0 +1,5 @@
+{
+  "GridSearchCV_score-2_unknown_dataset-2": "GridSearchCV.score(X=<DataFrame>, y=<Series>)",
+  "GridSearchCV_score_unknown_dataset": "GridSearchCV.score(X=<DataFrame>, y=<Series>)",
+  "LogisticRegression_score_unknown_dataset-3": "LogisticRegression.score(X=<DataFrame>, y=<Series>)"
+}

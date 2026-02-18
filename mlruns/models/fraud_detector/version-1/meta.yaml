@@ -1,0 +1,15 @@
+creation_timestamp: 1771430467631
+current_stage: Production
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1771431235681
+model_id: m-1b9ea852b3754849b807fa193a3e71ad
+name: fraud_detector
+run_id: fdd8a9e9279749c5b343e07b82a461c3
+run_link: null
+source: models:/m-1b9ea852b3754849b807fa193a3e71ad
+status: READY
+status_message: null
+storage_location: file:///Users/manojmareedu/Projects/Credit Fraud Detection/Credit-Card-Fraud-Detection-Project/mlruns/555500695970191872/models/m-1b9ea852b3754849b807fa193a3e71ad/artifacts
+user_id: null
+version: 1

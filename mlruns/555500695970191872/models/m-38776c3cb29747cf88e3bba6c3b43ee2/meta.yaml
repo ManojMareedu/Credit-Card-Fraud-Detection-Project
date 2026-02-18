@@ -1,0 +1,10 @@
+artifact_location: file:///Users/manojmareedu/Projects/Credit Fraud Detection/Credit-Card-Fraud-Detection-Project/mlruns/555500695970191872/models/m-38776c3cb29747cf88e3bba6c3b43ee2/artifacts
+creation_timestamp: 1771430362388
+experiment_id: '555500695970191872'
+last_updated_timestamp: 1771430363750
+model_id: m-38776c3cb29747cf88e3bba6c3b43ee2
+model_type: null
+name: best_estimator
+source_run_id: fdd8a9e9279749c5b343e07b82a461c3
+status: 2
+status_message: null

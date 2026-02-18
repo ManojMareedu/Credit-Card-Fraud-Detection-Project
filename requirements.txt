@@ -1,0 +1,26 @@
+# Data manipulation and analysis
+pandas
+numpy
+
+# Machine learning
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+
+# MLOps and experiment tracking
+dvc
+mlflow
+
+# App framework
+streamlit
+
+# Excel file support
+openpyxl
+
+# Notebook support
+jupyter
+
+# Model serialization
+joblib

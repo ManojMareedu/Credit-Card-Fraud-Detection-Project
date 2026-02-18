@@ -2,6 +2,7 @@ import pandas as pd
 import zipfile
 import json
 import os
+from zenml import step
 
 class DataLoaderFactory:
     @staticmethod
@@ -44,6 +45,7 @@ class ExcelLoader:
     def load(self, file_path):
         return pd.read_excel(file_path)
 
+@step
 def load_data(file_path):
     loader = DataLoaderFactory.get_loader(file_path)
     return loader.load(file_path)
