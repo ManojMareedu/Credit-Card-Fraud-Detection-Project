@@ -36,7 +36,7 @@ def eda_step(df):
     #checking for null values in each column
 
     df.isnull().sum()
-
+    '''
     #Visualization of data
 
     # Set up subplots for all visualizations
@@ -75,7 +75,7 @@ def eda_step(df):
 
     plt.tight_layout()
     #plt.show()
-    fig.savefig('Credit_Card_Fraud_Detection_EDA.png')
+    fig.savefig('Credit_Card_Fraud_Detection_EDA.png')'''
 
     return df
 
