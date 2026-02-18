@@ -10,10 +10,18 @@ st.set_page_config(
     layout="wide"
 )
 
+st.markdown(
+    """
+    # 💳 Credit Card Fraud Detection
+    ### End-to-End ML Engineering System
+    ---
+    """
+)
+
 # ------------------------------------------------------
 # Load Production Model
 # ------------------------------------------------------
-mlflow.set_tracking_uri("file:./mlruns")
+
 @st.cache_resource
 def load_model():
     return mlflow.sklearn.load_model("exported_model")
@@ -93,7 +101,11 @@ elif page == "Feature Importance":
         "online_order"
     ]
 
-    importances = model.feature_importances_
+    if hasattr(model, "feature_importances_"):
+        importances = model.feature_importances_
+    else:
+        st.warning("Feature importance not available for this model.")
+        importances = []
 
     fig, ax = plt.subplots()
     ax.barh(features, importances)
