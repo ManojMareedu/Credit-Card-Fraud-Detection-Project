@@ -127,7 +127,7 @@ python pipeline.py
 uvicorn app.model_server:app --reload --port 8000
 
 # 4. run Streamlit demo (loads exported_model/)
-streamlit run streamlit_app.py
+streamlit run Streamlit_app.py
 ```
 
 🧩 Repo Contents 
