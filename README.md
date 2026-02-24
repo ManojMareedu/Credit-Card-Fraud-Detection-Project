@@ -1,4 +1,5 @@
 # 💳 Credit Card Fraud Detection — End-to-End ML Engineering System
+![Python 3.x](https://img.shields.io/badge/Python-3.x-blue?logo=python) ![Docker](https://img.shields.io/badge/Container-Docker-blue?logo=docker) ![FastAPI](https://img.shields.io/badge/API-FastAPI-009688?logo=fastapi) ![Streamlit](https://img.shields.io/badge/Dashboard-Streamlit-ff4b4b?logo=streamlit) ![MLflow](https://img.shields.io/badge/Tracking-MLflow-0194E2) ![ZenML](https://img.shields.io/badge/Orchestration-ZenML-ff7f50) ![DVC](https://img.shields.io/badge/Data%20Versioning-DVC-945dd6) ![GitHub Actions](https://img.shields.io/badge/CI-CD-blue?logo=githubactions) ![License](https://img.shields.io/badge/License-Academic-lightgrey) ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
 A production-oriented machine learning system demonstrating:
 
